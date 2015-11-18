@@ -1,6 +1,6 @@
 #Test
 
-##[](#通用)通用
+##通用
 
 * [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) 免费的计算机编程类中文书籍
 
@@ -28,7 +28,7 @@ Internet of Things 物联网资料收集
 
 Web Developer 学习路线图
 
-编程语言
+##编程语言
 
 Android
 
@@ -67,7 +67,7 @@ stackoverflow-py-top-qa stackoverflow上Python相关回答整理翻译
 Ruby
 
 Ruby 资料 by Ruby China
-WEB前端
+##WEB前端
 
 一个合格的前端工程师必看的书籍
 
