@@ -28,15 +28,15 @@ Internet of Things 物联网资料收集
 
 Web Developer 学习路线图
 
-##编程语言
+## 编程语言
 
-Android
+* Android
 
-Android学习之路
-android-open-project Android开源项目分类汇总
-Point-of-Android Android 一些重要知识点解析整理
-Android开发相关的博客、文章、教程
-C/C++
+  * [Android学习之路](http://stormzhang.github.io/android/2014/07/07/learn-android-from-rookie/)
+  * [android-open-project Android开源项目分类汇总](https://github.com/Trinea/android-open-project)
+  * Point-of-Android Android 一些重要知识点解析整理
+  * Android开发相关的博客、文章、教程
+* C/C++
 
 cpp1x-study-resource C++11 的学习资源
 Game-Programming-Patterns-CN 游戏编程模式中文
