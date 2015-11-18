@@ -1,5 +1,7 @@
 #Test
-
+学习资料整理汇总
+https://github.com/Trinea/android-open-project
+https://testerhome.com/topics/1586
 ##通用
 
 * [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) 免费的计算机编程类中文书籍
