@@ -57,18 +57,18 @@ https://testerhome.com/topics/1586
  * [Ruby 资料](https://ruby-china.org/wiki) by Ruby China
 ##WEB前端
 
-* 一个合格的前端工程师必看的书籍
+* [一个合格的前端工程师必看的书籍](http://caifujianghu.com/article/yige-hege-de-qianduan-gongchengshi-bikan-de-shuji.html)
 
-* 前端知识体系
+* [前端知识体系](http://knowledge.ecomfe.com/)
 
-* fks 前端技能汇总
+* [fks](https://github.com/JacksonTian/fks) 前端技能汇总
 
-* frontend-books 收集前端方面的书籍
+* [frontend-books](https://github.com/lisposter/frontend-books) 收集前端方面的书籍
 
-* front-end-collect 分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者
+* [front-end-collect](https://github.com/foru17/front-end-collect) 分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者
 
-* Mars 腾讯移动Web前端知识库
+* [Mars](https://github.com/AlloyTeam/Mars) 腾讯移动Web前端知识库
 
-* mobile-web-favorites 移动前端开发收藏夹
+* [mobile-web-favorites](https://github.com/hoosin/mobile-web-favorites) 移动前端开发收藏夹
 
-* fe-store-house 个人关注的订阅、blog、工具、社区收集
+* [fe-store-house](https://github.com/poppinlp/fe-store-house) 个人关注的订阅、blog、工具、社区收集
