@@ -12,23 +12,13 @@ https://testerhome.com/topics/1586
 
 * [精华网站集锦](http://www.jianshu.com/p/9e65fa0b808e) 简书 henu王凯
 
-ResumeSample 程序员简历模板列表
+* [ResumeSample](https://github.com/geekcompany/ResumeSample) 程序员简历模板列表
 
-remote-working 收集整理远程工作相关的资料
+* [remote-working](https://github.com/greatghoul/remote-working) 收集整理远程工作相关的资料
 
-jptiancai.github.com github pages 静态网站集合
+* [jptiancai.github.com](https://github.com/jptiancai/jptiancai.github.com) github pages 静态网站集合
 
-WebsitesForStudents 大学生网站集合
-
-MineCraftReferences 汇总游戏《我的世界》相关的资源
-
-manong 码农周刊整理
-
-Learn X in Y minutes
-
-Internet of Things 物联网资料收集
-
-Web Developer 学习路线图
+* [manong](https://github.com/nemoTyrant/manong) 码农周刊整理
 
 ## 编程语言
 
@@ -36,22 +26,22 @@ Web Developer 学习路线图
 
   * [Android学习之路](http://stormzhang.github.io/android/2014/07/07/learn-android-from-rookie/)
   * [android-open-project Android开源项目分类汇总](https://github.com/Trinea/android-open-project)
-  * Point-of-Android Android 一些重要知识点解析整理
-  * Android开发相关的博客、文章、教程
+  * [Point-of-Android Android](https://github.com/FX-Max/Point-of-Android) 一些重要知识点解析整理
+  * [Android开发相关的博客、文章、教程](https://github.com/HanderWei/Android-Blogs)
 * C/C++
 
-cpp1x-study-resource C++11 的学习资源
-Game-Programming-Patterns-CN 游戏编程模式中文
-iOS
+ * [cpp1x-study-resource C++11](https://github.com/sib9/cpp1x-study-resource) 的学习资源
+ * [Game-Programming-Patterns-CN](https://github.com/GameDevelopmentCollege/Game-Programming-Patterns-CN) 游戏编程模式中文
+* iOS
 
-iOSBlogCN 中文 iOS/Mac 开发博客列表
-Best-App 收集&推荐优秀的Apps/硬件/技巧/周边等
-iOS-Swift-Demos Swift学习资源
-dev-blog 一些 iOS/Web 开发相关的翻译或原创博客文章
-SwiftGuide Swift语言指南
-ios-programming-books-zh_CN 中文ios开发资料收集
-trip-to-iOS iOS 学习资料整理
-javascript
+ * [iOSBlogCN](https://github.com/tangqiaoboy/iOSBlogCN) 中文 iOS/Mac 开发博客列表
+ * [Best-App](https://github.com/hzlzh/Best-App) 收集&推荐优秀的Apps/硬件/技巧/周边等
+ * iOS-Swift-Demos Swift学习资源
+ * dev-blog 一些 iOS/Web 开发相关的翻译或原创博客文章
+ * SwiftGuide Swift语言指南
+ * ios-programming-books-zh_CN 中文ios开发资料收集
+ * trip-to-iOS iOS 学习资料整理
+* javascript
 
 awesome-firebase
 AngularJS-Learning
