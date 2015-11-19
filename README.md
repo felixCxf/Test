@@ -36,43 +36,39 @@ https://testerhome.com/topics/1586
 
  * [iOSBlogCN](https://github.com/tangqiaoboy/iOSBlogCN) 中文 iOS/Mac 开发博客列表
  * [Best-App](https://github.com/hzlzh/Best-App) 收集&推荐优秀的Apps/硬件/技巧/周边等
- * iOS-Swift-Demos Swift学习资源
- * dev-blog 一些 iOS/Web 开发相关的翻译或原创博客文章
- * SwiftGuide Swift语言指南
- * ios-programming-books-zh_CN 中文ios开发资料收集
- * trip-to-iOS iOS 学习资料整理
+ * [iOS-Swift-Demos](https://github.com/Lax/iOS-Swift-Demos) Swift学习资源
+ * [dev-blog](https://github.com/nixzhu/dev-blog) 一些 iOS/Web 开发相关的翻译或原创博客文章
+ * [SwiftGuide](https://github.com/ipader/SwiftGuide) Swift语言指南
+ * [ios-programming-books-zh_CN](https://github.com/lcepy/ios-programming-books-zh_CN) 中文ios开发资料收集
+ * [trip-to-iOS](https://github.com/Aufree/trip-to-iOS) iOS 学习资料整理
 * javascript
 
-awesome-firebase
-AngularJS-Learning
-NodeJS-Learning Nodejs中文资料导航
-node123 node.js中文资料导航
-国内开源html5游戏引擎全收录
-w3school教程整理
-PHP
+ * [awesome-firebase](https://github.com/justjavac/awesome-firebase)
+ * [AngularJS-Learning](https://github.com/justjavac/AngularJS-Learning-zh_CN)
+ * [NodeJS-Learning](https://github.com/sergtitov/NodeJS-Learning/blob/master/cn_resource.md) Nodejs中文资料导航
+ * [node123](https://github.com/youyudehexie/node123) node.js中文资料导航
+ * [w3school教程整理](http://www.flygon.net/archives/427)
+* Python
 
-PHP知识结构思维导图
-Python
+ * [codeparkshare](https://github.com/Yixiaohan/codeparkshare) Python初学者书籍、视频、资料、社区推荐
+ * [stackoverflow-py-top-qa](https://github.com/wklken/stackoverflow-py-top-qa) stackoverflow上Python相关回答整理翻译
+* Ruby
 
-codeparkshare Python初学者书籍、视频、资料、社区推荐
-stackoverflow-py-top-qa stackoverflow上Python相关回答整理翻译
-Ruby
-
-Ruby 资料 by Ruby China
+ * [Ruby 资料](https://ruby-china.org/wiki) by Ruby China
 ##WEB前端
 
-一个合格的前端工程师必看的书籍
+* 一个合格的前端工程师必看的书籍
 
-前端知识体系
+* 前端知识体系
 
-fks 前端技能汇总
+* fks 前端技能汇总
 
-frontend-books 收集前端方面的书籍
+* frontend-books 收集前端方面的书籍
 
-front-end-collect 分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者
+* front-end-collect 分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者
 
-Mars 腾讯移动Web前端知识库
+* Mars 腾讯移动Web前端知识库
 
-mobile-web-favorites 移动前端开发收藏夹
+* mobile-web-favorites 移动前端开发收藏夹
 
-fe-store-house 个人关注的订阅、blog、工具、社区收集
+* fe-store-house 个人关注的订阅、blog、工具、社区收集
